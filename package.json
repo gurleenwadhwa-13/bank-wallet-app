@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "bank-wallet-project",
   "private": true,
   "scripts": {
     "build": "turbo run build",
